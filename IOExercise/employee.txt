@@ -1,0 +1,4 @@
+Employee Name: Peter Sam Joes
+Department: Sales
+Designation: Manager
+Salary: 35000
